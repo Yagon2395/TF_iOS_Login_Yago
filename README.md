@@ -1,2 +1,2 @@
 # iOS-login-flow
-Simple login flow developed in swift for native iOS app.
+Simple login flow developed in swift for a native iOS app.
